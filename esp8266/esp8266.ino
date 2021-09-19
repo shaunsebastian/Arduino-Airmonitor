@@ -8,8 +8,8 @@ int data3 = 0;
  // You should get Auth Token in the Blynk App.  
  // Go to the Project Settings (nut icon).  
  char auth[] = "PpHrxMqcMd5Cz3WhAuQ__e9Q5hZ8hs5s";   
- char ssid[] = "DMNE123";  
- char pass[] = "palackal@not";  
+ char ssid[] = "WifiId";  
+ char pass[] = "WifiPass";  
    
  #define t V1  
  #define h V5  
